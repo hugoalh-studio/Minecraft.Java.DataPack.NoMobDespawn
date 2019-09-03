@@ -1,16 +1,16 @@
 {
 	"pack": {
-		"index": "hugoalh/Minecraft.Java.DataPack.NoItemDespawn",
-		"name": "Minecraft Java Data Pack: No Item Despawn",
+		"index": "hugoalh/Minecraft.Java.DataPack.NoMobDespawn",
+		"name": "Minecraft Java Data Pack: No Mob Despawn",
 		"author": "hugoalh",
-		"version": "2.5.0",
-		"description": "No Item Despawn, 2.5.0",
+		"version": "1.0.0",
+		"description": "No Mob Despawn, 1.0.0",
 		"tag": [
 			"hugoalh",
 			"minecraft",
 			"java",
 			"datapack",
-			"item",
+			"mob",
 			"despawn"
 		],
 		"pack_format": 1
