@@ -7,12 +7,11 @@
 		"description": "No Mob Despawn, 1.0.0",
 		"tag": [
 			"hugoalh",
-			"minecraft",
 			"java",
 			"datapack",
 			"mob",
 			"despawn"
 		],
-		"pack_format": 1
+		"pack_format": 5
 	}
 }
