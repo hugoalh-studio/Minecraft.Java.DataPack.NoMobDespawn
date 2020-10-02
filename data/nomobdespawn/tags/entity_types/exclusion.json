@@ -39,7 +39,6 @@
 		"minecraft:tnt_minecart",
 		"minecraft:trader_llama",
 		"minecraft:wandering_trader",
-		"minecraft:wither_skull",
-		"#nomobdespawn:exclusion_custom"
+		"minecraft:wither_skull"
 	]
 }

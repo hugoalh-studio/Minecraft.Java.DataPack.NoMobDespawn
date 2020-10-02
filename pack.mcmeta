@@ -1,17 +1,6 @@
 {
 	"pack": {
-		"index": "hugoalh/Minecraft.Java.DataPack.NoMobDespawn",
-		"name": "Minecraft Java Data Pack: No Mob Despawn",
-		"author": "hugoalh",
-		"version": "1.0.0",
-		"description": "No Mob Despawn, 1.0.0",
-		"tag": [
-			"hugoalh",
-			"java",
-			"datapack",
-			"mob",
-			"despawn"
-		],
+		"description": "No Mob Despawn (v1.1.0): To prevent mob despawn.",
 		"pack_format": 5
 	}
 }
