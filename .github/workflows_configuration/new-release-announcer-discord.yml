@@ -1,0 +1,32 @@
+# content:
+# username:
+# avatar_url:
+tts: false
+embeds:
+  - title: "[Minecraft Java Data Pack] No Mob Despawn"
+    description: "Version %payload.release.name% (%payload.release.tag_name%) is released and available on:"
+    # url:
+    color: "52,170,47"
+    # footer:
+      # text:
+      # icon_url:
+    # image:
+      # url:
+    # thumbnail:
+      # url:
+    # video:
+      # url:
+    # author:
+      # name:
+      # url:
+      # icon_url:
+    fields:
+      - name: "GitHub Repository Release (& Changelog)"
+        value: "%payload.release.html_url%"
+        inline: false
+      - name: "CurseForge Minecraft"
+        value: "https://www.curseforge.com/minecraft/customization/no-mob-despawn"
+        inline: false
+      - name: "GitHub Repository"
+        value: "https://github.com/hugoalh-studio/Minecraft.Java.DataPack.NoMobDespawn"
+        inline: false

@@ -10,10 +10,9 @@
 > | ❌ | **No:** This is not supported due to this version(s) is too old. |
 > | ⚠ | **Issue:** This is not supported due to this version(s) is confirmed contains bug(s) and/or issue(s). |
 
-| **Version** | **Targeted Minecraft Java Version** | **Support** |
+| **Version** | **Targeted Minecraft Java Data Pack Version** | **Support** |
 |:---:|:---:|:---:|
-| v1.1.0 | v1.16 | ✔ |
-| v1.0.0 | v1.15 | ✔ |
+| v1 | 6 | ✔ |
 
 ## Report Vulnerability
 
@@ -23,19 +22,12 @@ Send an email to anyone who listed in here (click the link to obtain the email a
 
 - [hugoalh](https://github.com/hugoalh)
 
-### Content
+### Suggested Content List
 
-Please include these content(s) in the email!
-
-#### Title
-
-- Project index (mostly start with `hugoalh/`)
-
-#### Body
-
-- Your GitHub account username (e.g.: `@xxxx`)
+- Your GitHub account username (e.g.: `@octocat`)
+- Project index (mostly start with `hugoalh-studio/`)
 - Affected version(s) (must be a supported version(s))
 - Affected file(s)
 - Issue(s) to cause this security issue
-- *\[Optional\]* Common Vulnerabilities and Exposures (CVE) Identifier (ID)
-- *\[Optional\]* Reference of this security issue
+- Common Vulnerabilities and Exposures (CVE) identification number(s)
+- Reference of this security issue
