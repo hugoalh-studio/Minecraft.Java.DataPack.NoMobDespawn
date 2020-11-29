@@ -12,8 +12,8 @@ embeds:
       # icon_url:
     # image:
       # url:
-    # thumbnail:
-      # url:
+    thumbnail:
+      url: "https://i.imgur.com/ynhhZwk.png"
     # video:
       # url:
     # author:
