@@ -34,8 +34,8 @@
   <tr>
     <td><a href="https://github.com/hugoalh-studio/Minecraft.Java.DataPack.NoMobDespawn/graphs/contributors"><b>貢獻者</b></a> <img align="center" src="https://img.shields.io/github/contributors/hugoalh-studio/Minecraft.Java.DataPack.NoMobDespawn?label=%20&style=flat-square" /></td>
     <td><ul>
-        <li><a href="https://github.com/hugoalh">hugoalh</a></li>
         <li><a href="https://github.com/hugoalh-studio">hugoalh Studio</a></li>
+        <li><a href="https://github.com/hugoalh">hugoalh</a></li>
     </ul></td>
   </tr>
   <tr>
