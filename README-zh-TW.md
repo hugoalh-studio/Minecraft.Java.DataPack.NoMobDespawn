@@ -1,6 +1,6 @@
 🌐 | [English](./README.md) / [中文](./README-zh-TW.md)
 
-# ［Minecraft Java資料包］沒有生物消失
+# <img align="center" src="./pack.svg" height="64px" />［Minecraft Java資料包］沒有生物消失
 
 <details>
   <summary><a href="https://github.com/hugoalh-studio/Minecraft.Java.DataPack.NoMobDespawn"><code>hugoalh-studio/Minecraft.Java.DataPack.NoMobDespawn</code></a></summary>
